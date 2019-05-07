@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  open.cpp
+open.cpp(10): warning C4551: function call missing argument list
+  Generating Code...
+  LaLaTex.vcxproj -> C:\Users\Tharazi\Desktop\podstawy programowania\visual\LaLaTex\Debug\LaLaTex.exe
